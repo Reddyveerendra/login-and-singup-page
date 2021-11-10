@@ -10,7 +10,7 @@ h4{
 }
 .sub
 {
-    color: orangered;
+    color: rgb(255, 255, 255);
     background-color: midnightblue;
 }
 html {
@@ -50,3 +50,20 @@ html {
 			400px 0;
 		}
 	}
+	.login{
+		height: 500px;
+		width: 400px;
+		background-color: aliceblue;
+		border-radius: 30px;
+		display:flex;
+		justify-content: center;
+		align-items: center;
+	}
+	body
+{
+    height: 100%;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
